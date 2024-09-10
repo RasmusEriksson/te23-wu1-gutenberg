@@ -1,0 +1,14 @@
+.TopInfo{
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+
+    text-align: center;
+}
+
+main {
+    margin-inline: auto;
+    font-size: 1.5rem;
+    max-width: 65ch;
+
+    
+}
