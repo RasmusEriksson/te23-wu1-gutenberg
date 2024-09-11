@@ -1,18 +1,38 @@
 .TopInfo{
-    margin-top: 10rem;
+    margin-top: 5rem;
     margin-bottom: 5rem;
+    font-size: 1.5rem;
 
     text-align: center;
+}
+
+.fly {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+
+    border-radius: 10%;
+
+    max-width: 25%;
+    height: auto;
 }
 
 main {
     margin-inline: auto;
     font-size: 1.5rem;
     max-width: 65ch;
+    text-size-adjust: auto;
+    background-color: white;
+    padding: 5ch;
+
+    border-radius: 2rem;
+    margin-bottom: 5rem;
+
 
     
 }
 
 body{
-    background-color: lemonchiffon;
+    background-color: darksalmon;
 }
